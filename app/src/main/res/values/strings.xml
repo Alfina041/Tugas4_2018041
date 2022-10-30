@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Pert4_NavigatiaonActionBar</string>
+    <string name="navigation_drawer_open">Open Navigation Drawer</string>
+    <string name="navigation_drawer_close">Close Navigation Drawer</string>
+    <string name="deskription_lagu">Lagu yang dibawakan oleh grup band Vierra</string>
+    <string name="album">My First Love</string>
+    <string name="genre">Childrens Music, Pop, J-Pop, Indonesian Pop</string>
+    <string name="tahun_rilis">2009</string>
+    <string name="artis">Vierratale</string>
+</resources>
